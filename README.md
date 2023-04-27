@@ -9,3 +9,11 @@
 ### Решение:
 1. **[Чек-лист к функциональности](https://drive.google.com/file/d/1SYaq4bAnV2vaHYu0PvhxISaKWS3A4ogr/view?usp=share_link)**
 2. **[Чек-лист на валидацию полей](https://drive.google.com/file/d/1A6h4z4UUTt2OjlgjlW3UbFVdEzpVasu0/view?usp=share_link)**
+
+### Задание 2:
+[Личный кабинет агента](https://widgets.inssmart.ru/contract/mortgage/?appId=226ff66a-3108-5157-9d69-997b59f77bb1&secret=39919a81-fc16-5afd-9ff1-d0f6c9602608)
+1. Составить минимальный набор проверок, достаточный для запуска Личного кабинета в прод.
+2. Для систематизации использовать checkvist.com
+
+### Решение:
+1. **[Чеклист](https://checkvist.com/p/Tolnl992Q81h0j6K7a9pKC)**
