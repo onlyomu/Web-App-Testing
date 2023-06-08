@@ -17,3 +17,10 @@
 
 ### Решение:
 1. **[Чеклист](https://checkvist.com/p/Tolnl992Q81h0j6K7a9pKC)**
+
+### Задание 3:
+1. Написать список критичных проверок, которые надо сделать в условиях ограниченного времени. Допустим за 1-1,5ч надо принять решение, готова форма к выпуску в продуктив или нет.
+2. [Макеты формы](https://drive.google.com/drive/folders/1ndAwITf_XQmM1ogK3DzLUSaSYbfzplFe?usp=sharing)
+
+### Решение:
+1. **[Чек-лист к функциональности](https://meteor-angelfish-b0d.notion.site/Junior-QA-d72eb5538cea41daa949679f6bd40ee7?pvs=4)**
