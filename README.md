@@ -23,4 +23,4 @@
 2. [Макеты формы](https://drive.google.com/drive/folders/1ndAwITf_XQmM1ogK3DzLUSaSYbfzplFe?usp=sharing)
 
 ### Решение:
-1. **[Чек-лист к функциональности](https://meteor-angelfish-b0d.notion.site/Junior-QA-d72eb5538cea41daa949679f6bd40ee7?pvs=4)**
+1. **[Чек-лист к функциональности](https://meteor-angelfish-b0d.notion.site/Junior-QA-a3f5b886b7b747bd9bc5194f8a63d2ea?pvs=4)**
